@@ -24,6 +24,3 @@ Hey welcome to my profile 👋🏻,<br>Let me introduce myself.<br>My name is An
 
 ---
 [![](https://visitcount.itsvg.in/api?id=asTonyDev&icon=3&color=12)](https://visitcount.itsvg.in)
-
-##- ⚡ Fun fact: ...
-##-->
